@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon",
+    "debug": "nodemon --inspect ./src/server.js",
     "test": "jest"
   },
   "dependencies": {
